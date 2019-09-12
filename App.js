@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
   },
   sectionTitle: {
     fontSize: 60,
-    fontWeight: '1000',
+    fontWeight: '900',
     color: Colors.light,
   },
   sectionDescription: {
