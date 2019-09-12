@@ -40,7 +40,7 @@ const App = () => {
           )}
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Sadra Coders8787</Text>
+              <Text style={styles.sectionTitle}>Podia Cast</Text>
               <Text style={styles.sectionDescription}>
                 Edit <Text style={styles.highlight}>App.js</Text> Podia
               </Text>
@@ -88,9 +88,9 @@ const styles = StyleSheet.create({
     paddingHorizontal: 24,
   },
   sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-    color: Colors.black,
+    fontSize: 60,
+    fontWeight: '1000',
+    color: Colors.light,
   },
   sectionDescription: {
     marginTop: 8,
